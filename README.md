@@ -1,6 +1,6 @@
 # Agentic AI with LangGraph & Model Context Protocol (MCP)
 
-This repository contains learning projects, notebooks, and source code covering the fundamentals of building stateful, multi-actor LLM applications using **LangGraph** and extending model capabilities using the **Model Context Protocol (MCP)**.
+This repository contains learning projects, notebooks, and source code covering the fundamentals I learnt and implemented of building stateful, multi-actor LLM applications using **LangGraph** and extending model capabilities using the **Model Context Protocol (MCP)**.
 
 ---
 
