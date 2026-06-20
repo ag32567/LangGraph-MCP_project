@@ -29,7 +29,7 @@ Inside the [`mcplangchain`](./mcplangchain) folder, I implemented a modular MCP 
 ## 🛠️ Tech Stack & Dependencies
 * **Frameworks**: LangGraph, LangChain, FastMCP
 * **LLM Provider**: ChatGroq (Llama 3.3 70B Versatile)
-* **APIs**: Tavily Search Engine, Google Gemini API, OpenAI API
+* **APIs**: Tavily Search Engine, ChatGroq API
 * **Environment Management**: `dotenv` for secure environment variable loading
 * **Package Manager**: `uv` / `pip` (`requirements.txt`, `pyproject.toml`)
 
