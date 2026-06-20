@@ -40,7 +40,7 @@ Follow these steps to set up the project on your local machine and run the noteb
 ### 1. Clone the Repository
 Open your terminal (Git Bash, Command Prompt, or terminal of your choice) and run:
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone "github_url"
 cd AgenticLanggraph
 ```
 
@@ -77,10 +77,10 @@ cp .env.example .env
 ```
 Open the newly created `.env` file and insert your actual API keys:
 ```env
-GROQ_API_KEY="your-groq-api-key"
-TAVILY_API_KEY="your-tavily-api-key"
-GOOGLE_API_KEY="your-google-api-key"
-OPENAI_API_KEY="your-openai-api-key"
+GROQ_API_KEY=
+TAVILY_API_KEY=
+GOOGLE_API_KEY=
+OPENAI_API_KEY=
 ```
 
 ### 5. Running the Jupyter Notebooks
