@@ -1,0 +1,8 @@
+langgraph 
+langchain
+langsmith #. It is designed to help engineers and developers trace, debug, test, evaluate, and monitor Large Language Model (LLM) applications and AI agents from early prototyping to full-scale production.
+python-dotenv
+langchain-groq
+langchain_tavily
+langchain-mcp-adapters
+mcp
